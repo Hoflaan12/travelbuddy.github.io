@@ -7,7 +7,7 @@ It makes it easier for people to plan trips, visit and experience amazing places
 
 This website is a great resource for those who want to plan an unforgettable trip while saving time and effort
 
-![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/main.png)
 ## <a name="_x2j6ypqdvms"></a>**Features**
 The website is packed with helpful features that make travel planning simple and enjoyable.
 ### <a name="_7170oibsukb2"></a>**1. Navigation Bar**
@@ -21,7 +21,7 @@ The website is packed with helpful features that make travel planning simple and
 - This is the welcome section of the website. This section grabs the user’s attention and has a button to encourage exploration.
 - It creates an inviting first impression and motivates users to start exploring destinations right away.
 
-![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/main.png)
 
 
 
