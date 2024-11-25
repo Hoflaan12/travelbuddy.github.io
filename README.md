@@ -14,7 +14,7 @@ The website is packed with helpful features that make travel planning simple and
 - A menu at the top of every page that includes links to key sections like Home, Gallery, About Us, and a button to Book Trips.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button. This helps users move around the website easily, making sure they don’t get lost while exploring. It’s the same across all devices, so it feels familiar everywhere.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.002.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
 
 
 ### <a name="_2cjztq9u5ly2"></a>**2. Landing Page**
