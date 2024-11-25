@@ -31,7 +31,7 @@ The website is packed with helpful features that make travel planning simple and
 - A section highlighting some of the best travel destinations, with thumbnails and place names like "Lake District" and "Cambridge".
 - This feature helps users get inspiration quickly without having to navigate the entire webpage, saving them time and giving them ideas for their next adventure.
 
-![]((https://hoflaan12.github.io/travelbuddy.github.io/assets/images/top destination.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/destination.png)
 ### <a name="_dnfvcsfazqi"></a>**4. About Us**
 - Part of what determines the company’s experience in the travel industry is the value of TravelBuddy membership. It focuses on three main points:
   - **Book with confidence** – A trusted travel agent.
@@ -40,37 +40,37 @@ The website is packed with helpful features that make travel planning simple and
 
 - It builds confidence and tells users why TravelBuddy is the right place to plan their trips.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.004.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/about.png)
 
 ### <a name="_4jk8qeyzdavb"></a>**5. Gallery Section**
 - Beautiful collection of travel photos showing different places and activities.
 - It inspires users by showing them what their journey can look like. The views make them want to explore these destinations on their own.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.005.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/gallery.png)
 ###
 ###
 ### <a name="_5lcm1ywy2niz"></a><a name="_9x2n5b2zi9aq"></a><a name="_wqshcucczr5z"></a>**6. Booking Section**
 - A special section on tour packages that includes details such as price, duration and a **Book Now** button to facilitate booking.
 - It allows users to save money by displaying affordable options and offers quick book sales directly from the website.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.006.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/booking.png)
 
 ### <a name="_mlxbbenutq2f"></a>**7. The Footer** 
 - The section below includes links to relevant social media sites and copyright information. For a traveling friend. The link opens to another tab for easy user navigation.
 - It connects users with updates through platforms like Instagram, Facebook and Twitter.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.007.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/footer.png)
 ### <a name="_okulp0h2681h"></a>**8. Destination Page**
 - This page lists all available locations, with detailed information, descriptions and photos.
 - It gives users a clear idea of ​​all the tours they can browse and choose from.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.008.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/places.png)
 ###
 ### <a name="_62kif67iocxp"></a><a name="_8o403lyzh07b"></a>**9. Contact Us Page**
 - The website has a page with a contact form where users can ask questions and send in feedback. This website also has a map and the user can easily find wherever he is going.
 - This makes it easier for users to ask for help, get information, or search for a location.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.009.png)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/contact.png)
 
 
 ## <a name="_3o1br0vu68xi"></a>**Testing**
@@ -107,6 +107,3 @@ The website is available at this link: TravelBuddy
 - All images are from free-to-use stock image websites like Unsplash Freepik and Pexels.
 
 
-
-
-[ref1]: Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.001.png
