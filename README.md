@@ -7,21 +7,21 @@ It makes it easier for people to plan trips, visit and experience amazing places
 
 This website is a great resource for those who want to plan an unforgettable trip while saving time and effort
 
-![ref1]https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
 ## <a name="_x2j6ypqdvms"></a>**Features**
 The website is packed with helpful features that make travel planning simple and enjoyable.
 ### <a name="_7170oibsukb2"></a>**1. Navigation Bar**
 - A menu at the top of every page that includes links to key sections like Home, Gallery, About Us, and a button to Book Trips.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button. This helps users move around the website easily, making sure they don’t get lost while exploring. It’s the same across all devices, so it feels familiar everywhere.
 
-![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/Navbar.png)
 
 
 ### <a name="_2cjztq9u5ly2"></a>**2. Landing Page**
 - This is the welcome section of the website. This section grabs the user’s attention and has a button to encourage exploration.
 - It creates an inviting first impression and motivates users to start exploring destinations right away.
 
-![ref1]
+![](https://hoflaan12.github.io/travelbuddy.github.io/assets/images/banner.jpg)
 
 
 
@@ -31,7 +31,7 @@ The website is packed with helpful features that make travel planning simple and
 - A section highlighting some of the best travel destinations, with thumbnails and place names like "Lake District" and "Cambridge".
 - This feature helps users get inspiration quickly without having to navigate the entire webpage, saving them time and giving them ideas for their next adventure.
 
-![](Aspose.Words.461318db-c7a8-4a3c-b7a3-d0f1d4de297c.003.png)
+![]((https://hoflaan12.github.io/travelbuddy.github.io/assets/images/top destination.png)
 ### <a name="_dnfvcsfazqi"></a>**4. About Us**
 - Part of what determines the company’s experience in the travel industry is the value of TravelBuddy membership. It focuses on three main points:
   - **Book with confidence** – A trusted travel agent.
